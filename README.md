@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 <a href="https://coinstats.app/">
@@ -6,4 +5,3 @@
 </a>
 </body>
 </html>
-
